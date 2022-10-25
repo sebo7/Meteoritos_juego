@@ -11,7 +11,11 @@ estos últimos deben recargarse en las estaciones de recarga.
 ***
 
 ***Engine:*** Godot v3.2.2
+
 ***Lenguaje:*** GDScript
+
 ***Plataforma:*** PC
+
 ***Genero:*** Shmup
+
 ***
